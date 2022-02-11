@@ -4,7 +4,7 @@
 {
 		"name": "Polder",
 		"uniqueTo": "The Netherlands",
-		"terrainsCanBeBuiltOn": ["Coast", "Lakes"],
+		"terrainsCanBeBuiltOn": ["Coast", "Lakes", "Marsh"],
 		"food": 2,
 		"turnsToBuild": 7,
 		"techRequired": "Guilds",
