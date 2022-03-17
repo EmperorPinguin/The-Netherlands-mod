@@ -19,7 +19,7 @@
 		"hateHello": "What do you want?",
 		"tradeRequest": "I believe I have something that may be of some importance to you.",
 		"outerColor": [255, 144, 0],
-		"innerColor": [255, 255, 255],
+		"innerColor": [30,71,133],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Dutch East India Company",
 		"uniques": ["Retain [50]% of the happiness from a luxury after the last copy has been traded away"],
