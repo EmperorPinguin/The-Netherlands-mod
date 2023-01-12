@@ -1,0 +1,8 @@
+{
+		"name": "Dyke",
+                "uniqueTo": "The Netherlands",
+		"cost": 25,
+		"maintenance": 0,
+		"requiredTech": "Guilds"
+		"uniques": ["Creates a [Polder] improvement on a specific tile","Cannot be purchased"],
+	},
