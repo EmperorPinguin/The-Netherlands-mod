@@ -18,7 +18,7 @@
 		"neutralHello": "Once again, greetings.",
 		"hateHello": "What do you want?",
 		"tradeRequest": "I believe I have something that may be of some importance to you.",
-		"outerColor": [255, 144, 0],
+		"outerColor": [255, 125, 1],
 		"innerColor": [30,71,133],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Dutch East India Company",
