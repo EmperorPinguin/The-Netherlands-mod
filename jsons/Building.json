@@ -1,3 +1,4 @@
+[
 {
 		"name": "Dyke",
                 "uniqueTo": "The Netherlands",
@@ -6,3 +7,4 @@
 		"requiredTech": "Guilds"
 		"uniques": ["Creates a [Polder] improvement on a specific tile","Cannot be purchased"],
 	},
+]
