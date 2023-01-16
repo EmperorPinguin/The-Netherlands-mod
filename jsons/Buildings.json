@@ -2,7 +2,7 @@
 {
 		"name": "Polder Construction",
                 "uniqueTo": "The Netherlands",
-		"cost": 10,
+		"cost": 20,
 		"maintenance": 0,
 		"requiredTech": "Guilds"
 		"uniques": ["Creates a [Polder] improvement on a specific tile","Cannot be purchased", "(Sell this to construct a new Polder)"],
